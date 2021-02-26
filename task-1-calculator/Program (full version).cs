@@ -8,13 +8,13 @@ namespace task_1_calculator
 
         private static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
 
             double a;
             double b;
             double total;
             char oper;
-            char again;
+            
             b = 0;
             while (true)
 
@@ -26,7 +26,7 @@ namespace task_1_calculator
                 Console.WriteLine("Введите оператор.");
                 oper = Convert.ToChar(Console.ReadLine());
                 Console.WriteLine("Введите второе число.");
-                
+                b = Convert.ToDouble(Console.ReadLine());
 
 
                 if (oper == '^')
@@ -34,14 +34,15 @@ namespace task_1_calculator
                 {
                     total = a * a;
                     Console.WriteLine("Квадрат" + a + "равна" + total + ".");
-
+                    Convert.ToDouble(Console.ReadLine());
                 }
 
                 else
 
                 {
-                   
-                    a = Convert.ToDouble(Console.ReadLine());
+
+                    
+
 
                     if (oper == '+')
 
