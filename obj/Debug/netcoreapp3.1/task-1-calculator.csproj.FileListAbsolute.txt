@@ -1,0 +1,13 @@
+D:\coding-tasks\task-1-calculator\obj\Debug\netcoreapp3.1\task-1-calculator.csprojAssemblyReference.cache
+D:\coding-tasks\task-1-calculator\obj\Debug\netcoreapp3.1\task-1-calculator.AssemblyInfoInputs.cache
+D:\coding-tasks\task-1-calculator\obj\Debug\netcoreapp3.1\task-1-calculator.AssemblyInfo.cs
+D:\coding-tasks\task-1-calculator\obj\Debug\netcoreapp3.1\task-1-calculator.csproj.CoreCompileInputs.cache
+D:\coding-tasks\task-1-calculator\bin\Debug\netcoreapp3.1\task-1-calculator.exe
+D:\coding-tasks\task-1-calculator\bin\Debug\netcoreapp3.1\task-1-calculator.deps.json
+D:\coding-tasks\task-1-calculator\bin\Debug\netcoreapp3.1\task-1-calculator.runtimeconfig.json
+D:\coding-tasks\task-1-calculator\bin\Debug\netcoreapp3.1\task-1-calculator.runtimeconfig.dev.json
+D:\coding-tasks\task-1-calculator\bin\Debug\netcoreapp3.1\task-1-calculator.dll
+D:\coding-tasks\task-1-calculator\bin\Debug\netcoreapp3.1\task-1-calculator.pdb
+D:\coding-tasks\task-1-calculator\obj\Debug\netcoreapp3.1\task-1-calculator.dll
+D:\coding-tasks\task-1-calculator\obj\Debug\netcoreapp3.1\task-1-calculator.pdb
+D:\coding-tasks\task-1-calculator\obj\Debug\netcoreapp3.1\task-1-calculator.genruntimeconfig.cache
