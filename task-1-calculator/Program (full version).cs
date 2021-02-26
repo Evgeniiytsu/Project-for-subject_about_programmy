@@ -15,7 +15,7 @@ namespace task_1_calculator
             double total;
             char oper;
             char again;
-
+            b = 0;
             while (true)
 
 
@@ -26,7 +26,7 @@ namespace task_1_calculator
                 Console.WriteLine("Введите оператор.");
                 oper = Convert.ToChar(Console.ReadLine());
                 Console.WriteLine("Введите второе число.");
-                b = Convert.ToDouble(Console.ReadLine());
+                
 
 
                 if (oper == '^')
@@ -40,7 +40,7 @@ namespace task_1_calculator
                 else
 
                 {
-                    Console.WriteLine("Введите второе число");
+                   
                     a = Convert.ToDouble(Console.ReadLine());
 
                     if (oper == '+')
@@ -81,50 +81,7 @@ namespace task_1_calculator
 
 
 
-                    if (oper == '+')
-
-                    {
-
-                        total = a + b;
-                        Console.WriteLine("Cумма " + a + " и " + b + " равна " + total + ".");
-
-                    }
-
-                    if (oper == '-')
-                    {
-
-                        total = a - b;
-
-                        Console.WriteLine("Разность" + a + " и " + b + " равна " + total + ".");
-                    }
-
-                    if (oper == '*')
-
-                    {
-                        total = a * b;
-
-                        Console.WriteLine("Произведение" + a + "и" + b + " равна " + total + ".");
-
-                    }
-
-
-                    if (oper == '/')
-
-                    {
-
-                        total = a / b;
-
-                        Console.WriteLine("Деление" + a + "и" + b + " равна " + total + ".");
-
-                    }
-
-
-                    else
-                    {
-
-
-                        Console.WriteLine("Неизвестный оператор.");
-                    }
+                    
 
 
 
