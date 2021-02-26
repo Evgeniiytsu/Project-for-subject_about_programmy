@@ -15,7 +15,9 @@ namespace task_1_calculator
             double total;
             char oper;
             char again;
-
+            while ("true")
+                
+           
             Console.WriteLine("Введите первое число."); //ПРОВЕСТИ КОНВЕРТИРОВАНИЕ
             a = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Введите оператор.");
@@ -69,18 +71,13 @@ namespace task_1_calculator
                 Console.WriteLine("Неизвестный оператор.");
             }
 
-            {
+            
 
-                Console.WriteLine("Вы хотите продолжить работу с калькулятором? (д/н)");
-                again = Convert.ToChar(Console.ReadLine());
-
-                while (true)
-                system("cls"); // очищаем экран 
-                cout << "Выполнить программу еще раз? (д-да, н-нет)\n";
-                if (i != д) break;
+                
+                
 
 
-            }
+            
 
 
 
